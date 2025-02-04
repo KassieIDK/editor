@@ -20,6 +20,7 @@ export class AppComponent {
   selectedFront: string = "Arial";
   selectedSize: number = 12;
   selectedColor: string = "black";
+  selectedInterlineado: number = 1;
 
   //Habilidad textarea
   enableTextarea(): void {
